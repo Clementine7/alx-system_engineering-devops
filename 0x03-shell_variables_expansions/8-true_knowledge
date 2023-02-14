@@ -1,2 +1,4 @@
 #!/bin/bash
-echo 256
+echo $(( 128 + $TRUEKNOWLEDGE ))
+
+
